@@ -1,0 +1,11 @@
+ping 167.99.183.102                                                                                           
+Pinging 167.99.183.102 with 32 bytes of data:
+Reply from 167.99.183.102: bytes=32 time=7ms TTL=53
+Reply from 167.99.183.102: bytes=32 time=32ms TTL=53
+Reply from 167.99.183.102: bytes=32 time=20ms TTL=53
+Reply from 167.99.183.102: bytes=32 time=12ms TTL=53
+
+Ping statistics for 167.99.183.102:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 32ms, Average = 17ms

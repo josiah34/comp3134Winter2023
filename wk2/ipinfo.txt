@@ -1,0 +1,71 @@
+
+---------GOOGLE------------------
+Non-authoritative answer:
+Name:   google.com
+Address: 142.251.162.102
+Name:   google.com
+Address: 142.251.162.113
+Name:   google.com
+Address: 142.251.162.101
+Name:   google.com
+Address: 142.251.162.100
+Name:   google.com
+Address: 142.251.162.138
+Name:   google.com
+Address: 142.251.162.139
+Name:   google.com
+Address: 2607:f8b0:400c:c0f::64
+Name:   google.com
+Address: 2607:f8b0:400c:c0f::8a
+Name:   google.com
+Address: 2607:f8b0:400c:c0f::71
+Name:   google.com
+Address: 2607:f8b0:400c:c0f::66
+
+---------YOUTUBE----------------
+Non-authoritative answer:
+Name:   youtube.com
+Address: 173.194.210.190
+Name:   youtube.com
+Address: 173.194.210.93
+Name:   youtube.com
+Address: 173.194.210.136
+Name:   youtube.com
+Address: 173.194.210.91
+Name:   youtube.com
+Address: 2607:f8b0:400b:804::200e
+
+-------GITHUB-------------------------
+Non-authoritative answer:
+Name:   github.com
+Address: 140.82.114.4
+
+
+----------LinkedIn----------------------
+
+Non-authoritative answer:
+Name:   linkedin.com
+Address: 13.107.42.14
+Name:   linkedin.com
+Address: 2620:1ec:21::14
+
+------Gmail----------------------------------
+Non-authoritative answer:
+Name:   gmail.com
+Address: 108.177.11.83
+Name:   gmail.com
+Address: 108.177.11.18
+Name:   gmail.com
+Address: 108.177.11.19
+Name:   gmail.com
+Address: 108.177.11.17
+Name:   gmail.com
+Address: 2607:f8b0:400c:c01::53
+Name:   gmail.com
+Address: 2607:f8b0:400c:c01::11
+Name:   gmail.com
+Address: 2607:f8b0:400c:c01::13
+Name:   gmail.com
+Address: 2607:f8b0:400c:c01::12
+
+

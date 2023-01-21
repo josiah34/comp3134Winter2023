@@ -1,0 +1,195 @@
+
+
+Output of whois commands
+
+
+GOOGLE.COM
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns3.google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+
+
+NETFLIX
+Domain Name: netflix.com
+Registry Domain ID: 1404215_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-10-09T09:37:28+0000
+Creation Date: 1997-11-11T05:00:00+0000
+Registrar Registration Expiration Date: 2023-11-10T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID:
+Registrant Name: Domain Administrator
+Registrant Organization: Netflix, Inc.
+Registrant Street: 100 Winchester Circle,
+Registrant City: Los Gatos
+Registrant State/Province: CA
+Registrant Postal Code: 95032
+Registrant Country: US
+Registrant Phone: +1.4085403700
+Registrant Phone Ext:
+Registrant Fax: +1.4085403737
+Registrant Fax Ext:
+Registrant Email: nicadmin@netflix.com
+Registry Admin ID:
+Admin Name: Domain Administrator
+Admin Organization: Netflix, Inc.
+Admin Street: 100 Winchester Circle,
+Admin City: Los Gatos
+Admin State/Province: CA
+Admin Postal Code: 95032
+Admin Country: US
+Admin Phone: +1.4085403700
+Admin Phone Ext:
+Admin Fax: +1.4085403737
+Admin Fax Ext:
+Admin Email: nicadmin@netflix.com
+Registry Tech ID:
+Tech Name: Domain Administrator
+Tech Organization: Netflix, Inc.
+Tech Street: 100 Winchester Circle,
+Tech City: Los Gatos
+Tech State/Province: CA
+Tech Postal Code: 95032
+Tech Country: US
+Tech Phone: +1.4085403700
+Tech Phone Ext:
+Tech Fax: +1.4085403737
+Tech Fax Ext:
+Tech Email: nicadmin@netflix.com
+Name Server: ns-81.awsdns-10.com
+Name Server: ns-1372.awsdns-43.org
+Name Server: ns-659.awsdns-18.net
+Name Server: ns-1984.awsdns-56.co.uk
+DNSSEC: unsigned
+
+YOUTUBE
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-01-14T09:25:19+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2024-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+
+
+GITHUB
+Domain Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2022-09-07T09:10:44+0000
+Creation Date: 2007-10-09T18:20:50+0000
+Registrar Registration Expiration Date: 2024-10-09T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: GitHub, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Admin Organization: GitHub, Inc.
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Tech Organization: GitHub, Inc.
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Name Server: dns3.p08.nsone.net
+Name Server: dns1.p08.nsone.net
+Name Server: ns-520.awsdns-01.net
+Name Server: dns4.p08.nsone.net
+Name Server: dns2.p08.nsone.net
+Name Server: ns-1283.awsdns-32.org
+Name Server: ns-421.awsdns-52.com
+Name Server: ns-1707.awsdns-21.co.uk
+DNSSEC: unsigned
+
+DROPLET
+   Domain Name: DROPLET.COM
+   Registry Domain ID: 12551892_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.uniregistrar.com
+   Registrar URL: http://www.uniregistry.com
+   Updated Date: 2022-12-22T04:11:28Z
+   Creation Date: 1999-11-09T11:36:36Z
+   Registry Expiry Date: 2029-11-09T11:36:36Z
+   Registrar: GoDaddy Online Services Cayman Islands Ltd.
+   Registrar IANA ID: 1659
+   Registrar Abuse Contact Email: abuse@uniregistry.com
+   Registrar Abuse Contact Phone: +1 4805058800
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.UNIREGISTRYMARKET.LINK
+   Name Server: NS2.UNIREGISTRYMARKET.LINK
+   DNSSEC: unsigned
