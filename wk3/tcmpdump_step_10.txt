@@ -1,0 +1,295 @@
+4
+23:27:01.228738 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2147696:2147860, ack 1189, win 501, length 164
+23:27:01.228874 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2147860:2148024, ack 1189, win 501, length 164
+23:27:01.229006 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2148024:2148188, ack 1189, win 501, length 164
+23:27:01.229035 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2137128, win 8356, length 0
+23:27:01.229036 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2137456, win 8354, length 0
+23:27:01.229036 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2137784, win 8360, length 0
+23:27:01.229036 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2137784, win 8360, options [nop,nop,sack 1 {2137948:2138112}], length 0
+23:27:01.229036 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2138112, win 8359, length 0
+23:27:01.229036 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2138440, win 8357, length 0
+23:27:01.229036 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2138768, win 8356, length 0
+23:27:01.229036 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2139096, win 8355, length 0
+23:27:01.229062 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2139260, win 8360, options [nop,nop,sack 1 {2139424:2139588}], length 0
+23:27:01.229062 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2139588, win 8359, length 0
+23:27:01.229244 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2148188:2149464, ack 1189, win 501, length 1276
+23:27:01.229323 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2149464:2149628, ack 1189, win 501, length 164
+23:27:01.229392 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2149628:2149792, ack 1189, win 501, length 164
+23:27:01.229455 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2149792:2149956, ack 1189, win 501, length 164
+23:27:01.229520 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2149956:2150120, ack 1189, win 501, length 164
+23:27:01.229584 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2150120:2150284, ack 1189, win 501, length 164
+23:27:01.229651 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2150284:2150448, ack 1189, win 501, length 164
+23:27:01.229713 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2150448:2150612, ack 1189, win 501, length 164
+23:27:01.229776 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2150612:2150776, ack 1189, win 501, length 164
+23:27:01.229844 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2150776:2150940, ack 1189, win 501, length 164
+23:27:01.229909 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2150940:2151104, ack 1189, win 501, length 164
+23:27:01.230016 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2151104:2151268, ack 1189, win 501, length 164
+23:27:01.230048 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2139752, win 8358, length 0
+23:27:01.230048 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2139752, win 8358, options [nop,nop,sack 1 {2139916:2140080}], length 0
+23:27:01.230048 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2139752, win 8358, options [nop,nop,sack 2 {2140244:2140408}{2139916:2140080}], length 0
+23:27:01.230048 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2139752, win 8358, options [nop,nop,sack 2 {2140244:2140572}{2139916:2140080}], length 0
+23:27:01.230048 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2140080, win 8357, options [nop,nop,sack 1 {2140244:2140572}], length 0
+23:27:01.230048 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2140572, win 8355, length 0
+23:27:01.230191 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2151268:2152256, ack 1189, win 501, length 988
+23:27:01.230267 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2152256:2152420, ack 1189, win 501, length 164
+23:27:01.230329 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2152420:2152584, ack 1189, win 501, length 164
+23:27:01.230393 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2152584:2152748, ack 1189, win 501, length 164
+23:27:01.230455 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2152748:2152912, ack 1189, win 501, length 164
+23:27:01.230518 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2152912:2153076, ack 1189, win 501, length 164
+23:27:01.230580 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2153076:2153240, ack 1189, win 501, length 164
+23:27:01.230645 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2153240:2153404, ack 1189, win 501, length 164
+23:27:01.230707 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2153404:2153568, ack 1189, win 501, length 164
+23:27:01.230787 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2153568:2153732, ack 1189, win 501, length 164
+23:27:01.230851 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2153732:2153896, ack 1189, win 501, length 164
+23:27:01.230981 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2153896:2154060, ack 1189, win 501, length 164
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2141556, win 8360, length 0
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2141884, win 8359, length 0
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2142048, win 8358, options [nop,nop,sack 1 {2142212:2142376}], length 0
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2142376, win 8357, length 0
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2142540, win 8356, length 0
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2143364, win 8360, length 0
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2143364, win 8360, options [nop,nop,sack 1 {2143528:2143692}], length 0
+23:27:01.231018 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2143692, win 8359, length 0
+23:27:01.231181 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2154060:2155136, ack 1189, win 501, length 1076
+23:27:01.231283 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2155136:2155300, ack 1189, win 501, length 164
+23:27:01.231362 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2155300:2155464, ack 1189, win 501, length 164
+23:27:01.231431 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2155464:2155628, ack 1189, win 501, length 164
+23:27:01.231584 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2155628:2155792, ack 1189, win 501, length 164
+23:27:01.231662 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2155792:2155956, ack 1189, win 501, length 164
+23:27:01.231729 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2155956:2156120, ack 1189, win 501, length 164
+23:27:01.231794 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2156120:2156284, ack 1189, win 501, length 164
+23:27:01.231875 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2156284:2156448, ack 1189, win 501, length 164
+23:27:01.231940 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2156448:2156612, ack 1189, win 501, length 164
+23:27:01.232059 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2156612:2156776, ack 1189, win 501, length 164
+23:27:01.232149 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2156776:2156940, ack 1189, win 501, length 164
+23:27:01.232218 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2156940:2157104, ack 1189, win 501, length 164
+23:27:01.232325 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2157104:2157268, ack 1189, win 501, length 164
+23:27:01.232395 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2157268:2157432, ack 1189, win 501, length 164
+23:27:01.232677 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2157432:2157596, ack 1189, win 501, length 164
+23:27:01.233229 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2144020, win 8357, length 0
+23:27:01.233257 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2157596:2157760, ack 1189, win 501, length 164
+23:27:01.233396 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2157760:2158020, ack 1189, win 501, length 260
+23:27:01.233567 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2158020:2158184, ack 1189, win 501, length 164
+23:27:01.233659 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2158184:2158348, ack 1189, win 501, length 164
+23:27:01.233734 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2158348:2158512, ack 1189, win 501, length 164
+23:27:01.233874 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2158512:2158676, ack 1189, win 501, length 164
+23:27:01.234073 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2144184, win 8357, options [nop,nop,sack 1 {2144740:2144904}], length 0
+23:27:01.234074 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2144184, win 8357, options [nop,nop,sack 2 {2145068:2145232}{2144740:2144904}], length 0
+23:27:01.234074 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2144904, win 8360, options [nop,nop,sack 1 {2145068:2145232}], length 0
+23:27:01.234074 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [P.], seq 1189:1225, ack 2144904, win 8360, length 36
+23:27:01.234074 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2145232, win 8359, length 0
+23:27:01.234074 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2145232, win 8359, options [nop,nop,sack 1 {2145396:2145560}], length 0
+23:27:01.234074 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2145560, win 8357, length 0
+23:27:01.234074 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2145560, win 8357, options [nop,nop,sack 1 {2145724:2145888}], length 0
+23:27:01.234127 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2145888, win 8356, length 0
+23:27:01.234127 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2145888, win 8356, options [nop,nop,sack 1 {2146548:2146712}], length 0
+23:27:01.234127 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2145888, win 8356, options [nop,nop,sack 2 {2146876:2147040}{2146548:2146712}], length 0
+23:27:01.234127 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2146712, win 8360, options [nop,nop,sack 1 {2146876:2147040}], length 0
+23:27:01.234127 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2147040, win 8359, length 0
+23:27:01.234394 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2158676:2160576, ack 1225, win 501, length 1900
+23:27:01.234544 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2160576:2160740, ack 1225, win 501, length 164
+23:27:01.234657 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2160740:2160904, ack 1225, win 501, length 164
+23:27:01.234749 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2160904:2161068, ack 1225, win 501, length 164
+23:27:01.234848 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2161068:2161232, ack 1225, win 501, length 164
+23:27:01.235030 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2161232:2161396, ack 1225, win 501, length 164
+23:27:01.235104 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2161396:2161560, ack 1225, win 501, length 164
+23:27:01.235187 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2161560:2161724, ack 1225, win 501, length 164
+23:27:01.235677 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2161724:2161888, ack 1225, win 501, length 164
+23:27:01.235789 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2161888:2162052, ack 1225, win 501, length 164
+23:27:01.235866 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2162052:2162216, ack 1225, win 501, length 164
+23:27:01.235939 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2162216:2162380, ack 1225, win 501, length 164
+23:27:01.240777 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2147368, win 8357, length 0
+23:27:01.240777 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2147696, win 8356, length 0
+23:27:01.240777 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2147696, win 8356, options [nop,nop,sack 1 {2148024:2148188}], length 0
+23:27:01.240777 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2147860, win 8355, options [nop,nop,sack 1 {2148024:2148188}], length 0
+23:27:01.240778 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2148188, win 8360, length 0
+23:27:01.240778 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2148188, win 8360, options [nop,nop,sack 1 {2149464:2149628}], length 0
+23:27:01.240778 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2148188, win 8360, options [nop,nop,sack 1 {2149464:2149792}], length 0
+23:27:01.240778 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2149792, win 8360, length 0
+23:27:01.240868 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2162380:2162544, ack 1225, win 501, length 164
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2150120, win 8359, length 0
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2150448, win 8357, length 0
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2150776, win 8356, length 0
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2151104, win 8355, length 0
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2152256, win 8350, length 0
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2152256, win 8350, options [nop,nop,sack 1 {2152420:2152584}], length 0
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2152584, win 8349, length 0
+23:27:01.240927 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2152748, win 8348, options [nop,nop,sack 1 {2152912:2153076}], length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2153076, win 8347, length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2153240, win 8346, length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2153568, win 8345, length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2153568, win 8345, options [nop,nop,sack 1 {2153732:2153896}], length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2153896, win 8344, length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2154060, win 8343, options [nop,nop,sack 1 {2155136:2155300}], length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2154060, win 8343, options [nop,nop,sack 1 {2155136:2155464}], length 0
+23:27:01.240996 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2155464, win 8338, length 0
+23:27:01.241039 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2155464, win 8338, options [nop,nop,sack 1 {2155628:2155792}], length 0
+23:27:01.241039 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2155792, win 8336, length 0
+23:27:01.241039 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2155956, win 8336, length 0
+23:27:01.241039 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2156284, win 8334, length 0
+23:27:01.241039 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2156612, win 8333, length 0
+23:27:01.241039 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2156940, win 8332, length 0
+23:27:01.241039 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2157268, win 8331, length 0
+23:27:01.241501 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2160740, win 8317, options [nop,nop,sack 2 {2161232:2161560}{2160904:2161068}], length 0
+23:27:01.241501 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2161068, win 8316, options [nop,nop,sack 1 {2161232:2161560}], length 0
+23:27:01.241501 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2161560, win 8314, length 0
+23:27:01.241878 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2162544:2166676, ack 1225, win 501, length 4132
+23:27:01.242734 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2161888, win 8313, length 0
+23:27:01.242762 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2166676:2166956, ack 1225, win 501, length 280
+23:27:01.244664 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2166956:2167216, ack 1225, win 501, length 260
+23:27:01.244915 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2167216:2167380, ack 1225, win 501, length 164
+23:27:01.245028 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2162216, win 8311, length 0
+23:27:01.245028 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2162216, win 8360, length 0
+23:27:01.245071 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2167380:2167544, ack 1225, win 501, length 164
+23:27:01.245186 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2167544:2167908, ack 1225, win 501, length 364
+23:27:01.245293 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2167908:2168072, ack 1225, win 501, length 164
+23:27:01.245382 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2168072:2168236, ack 1225, win 501, length 164
+23:27:01.245483 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2168236:2168400, ack 1225, win 501, length 164
+23:27:01.245767 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2168400:2168564, ack 1225, win 501, length 164
+23:27:01.245932 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2168564:2168728, ack 1225, win 501, length 164
+23:27:01.246038 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2168728:2168892, ack 1225, win 501, length 164
+23:27:01.246189 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2168892:2169056, ack 1225, win 501, length 164
+23:27:01.246383 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2169056:2169220, ack 1225, win 501, length 164
+23:27:01.246595 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2169220:2169384, ack 1225, win 501, length 164
+23:27:01.246704 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2169384:2169548, ack 1225, win 501, length 164
+23:27:01.246798 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2169548:2169712, ack 1225, win 501, length 164
+23:27:01.246827 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2162544, win 8359, length 0
+23:27:01.246964 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2169712:2169972, ack 1225, win 501, length 260
+23:27:01.247277 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2169972:2170136, ack 1225, win 501, length 164
+23:27:01.247526 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2170136:2170300, ack 1225, win 501, length 164
+23:27:01.247854 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2170300:2170464, ack 1225, win 501, length 164
+23:27:01.248186 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2162544, win 8359, options [nop,nop,sack 1 {2163996:2165448}], length 0
+23:27:01.248187 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2165448, win 8360, length 0
+23:27:01.248222 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2170464:2170628, ack 1225, win 501, length 164
+23:27:01.248396 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2170628:2171040, ack 1225, win 501, length 412
+23:27:01.248511 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2171040:2171204, ack 1225, win 501, length 164
+23:27:01.248628 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2171204:2171368, ack 1225, win 501, length 164
+23:27:01.248817 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2171368:2171532, ack 1225, win 501, length 164
+23:27:01.248915 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2171532:2171696, ack 1225, win 501, length 164
+23:27:01.249026 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2171696:2171860, ack 1225, win 501, length 164
+23:27:01.249163 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2171860:2172024, ack 1225, win 501, length 164
+23:27:01.249266 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2172024:2172188, ack 1225, win 501, length 164
+23:27:01.249368 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2172188:2172352, ack 1225, win 501, length 164
+23:27:01.249472 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2172352:2172516, ack 1225, win 501, length 164
+23:27:01.249660 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2172516:2172680, ack 1225, win 501, length 164
+23:27:01.249746 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2172680:2172844, ack 1225, win 501, length 164
+23:27:01.249872 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2172844:2173008, ack 1225, win 501, length 164
+23:27:01.250011 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2173008:2173172, ack 1225, win 501, length 164
+23:27:01.250111 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2173172:2173336, ack 1225, win 501, length 164
+23:27:01.250219 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2173336:2173500, ack 1225, win 501, length 164
+23:27:01.250308 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2173500:2173664, ack 1225, win 501, length 164
+23:27:01.250637 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2173664:2173828, ack 1225, win 501, length 164
+23:27:01.250858 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2173828:2173992, ack 1225, win 501, length 164
+23:27:01.251128 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2173992:2174156, ack 1225, win 501, length 164
+23:27:01.251278 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2166956, win 8360, length 0
+23:27:01.251278 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2167216, win 8359, options [nop,nop,sack 1 {2167908:2168072}], length 0
+23:27:01.251308 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2174156:2174320, ack 1225, win 501, length 164
+23:27:01.251894 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2174320:2174876, ack 1225, win 501, length 556
+23:27:01.252010 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2174876:2175068, ack 1225, win 501, length 192
+23:27:01.252040 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2167380, win 8358, options [nop,nop,sack 1 {2167908:2168072}], length 0
+23:27:01.252040 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2167544, win 8358, options [nop,nop,sack 1 {2167908:2168072}], length 0
+23:27:01.252040 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2168072, win 8355, length 0
+23:27:01.252040 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2168236, win 8355, length 0
+23:27:01.252040 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2168564, win 8360, length 0
+23:27:01.252040 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2168728, win 8359, options [nop,nop,sack 1 {2168892:2169056}], length 0
+23:27:01.252112 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2175068:2175224, ack 1225, win 501, length 156
+23:27:01.252188 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2175224:2175260, ack 1225, win 501, length 36
+23:27:01.252202 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2175260:2175440, ack 1225, win 501, length 180
+23:27:01.252418 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2175440:2176008, ack 1225, win 501, length 568
+23:27:01.252536 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2176008:2176436, ack 1225, win 501, length 428
+23:27:01.252667 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2176436:2176976, ack 1225, win 501, length 540
+23:27:01.252820 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2176976:2177360, ack 1225, win 501, length 384
+23:27:01.252901 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2177360:2177560, ack 1225, win 501, length 200
+23:27:01.252968 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2177560:2177844, ack 1225, win 501, length 284
+23:27:01.253044 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2168728, win 8359, options [nop,nop,sack 1 {2168892:2169220}], length 0
+23:27:01.253044 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2169220, win 8357, length 0
+23:27:01.253044 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2169384, win 8357, length 0
+23:27:01.253044 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2169384, win 8357, options [nop,nop,sack 1 {2169712:2169972}], length 0
+23:27:01.253045 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2169548, win 8356, options [nop,nop,sack 1 {2169712:2169972}], length 0
+23:27:01.253045 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2169972, win 8354, length 0
+23:27:01.253045 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2169972, win 8354, options [nop,nop,sack 1 {2170136:2170300}], length 0
+23:27:01.253045 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2170300, win 8360, length 0
+23:27:01.253106 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2177844:2178008, ack 1225, win 501, length 164
+23:27:01.253288 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2178008:2179172, ack 1225, win 501, length 1164
+23:27:01.253389 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2179172:2179336, ack 1225, win 501, length 164
+23:27:01.253501 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2179336:2179500, ack 1225, win 501, length 164
+23:27:01.253603 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2179500:2179664, ack 1225, win 501, length 164
+23:27:01.253760 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2179664:2179828, ack 1225, win 501, length 164
+23:27:01.254061 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2179828:2179992, ack 1225, win 501, length 164
+23:27:01.254772 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2170300, win 8360, options [nop,nop,sack 1 {2170464:2170628}], length 0
+23:27:01.254772 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2170628, win 8359, length 0
+23:27:01.254772 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2171204, win 8356, length 0
+23:27:01.254772 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2171532, win 8355, length 0
+23:27:01.254772 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2171696, win 8354, options [nop,nop,sack 1 {2171860:2172024}], length 0
+23:27:01.254803 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2179992:2180156, ack 1225, win 501, length 164
+23:27:01.254957 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2180156:2180336, ack 1225, win 501, length 180
+23:27:01.255108 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2171696, win 8354, options [nop,nop,sack 2 {2172188:2172352}{2171860:2172024}], length 0
+23:27:01.255108 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2171696, win 8354, options [nop,nop,sack 2 {2172188:2172516}{2171860:2172024}], length 0
+23:27:01.255108 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2172024, win 8360, options [nop,nop,sack 1 {2172188:2172516}], length 0
+23:27:01.255108 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2172516, win 8358, length 0
+23:27:01.255108 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2172680, win 8357, length 0
+23:27:01.255108 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2172680, win 8357, options [nop,nop,sack 1 {2172844:2173008}], length 0
+23:27:01.255168 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2180336:2180828, ack 1225, win 501, length 492
+23:27:01.255271 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2180828:2181584, ack 1225, win 501, length 756
+23:27:01.255461 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2181584:2182100, ack 1225, win 501, length 516
+23:27:01.255546 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2182100:2182384, ack 1225, win 501, length 284
+23:27:01.255701 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2182384:2182576, ack 1225, win 501, length 192
+23:27:01.255781 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2182576:2182740, ack 1225, win 501, length 164
+23:27:01.255849 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2182740:2182932, ack 1225, win 501, length 192
+23:27:01.255915 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2182932:2183096, ack 1225, win 501, length 164
+23:27:01.256014 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2173008, win 8356, length 0
+23:27:01.256014 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2173336, win 8355, length 0
+23:27:01.256014 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2173336, win 8355, options [nop,nop,sack 1 {2173500:2173664}], length 0
+23:27:01.256014 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2173336, win 8355, options [nop,nop,sack 1 {2173500:2173828}], length 0
+23:27:01.256014 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2173828, win 8360, length 0
+23:27:01.256089 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2183096:2183460, ack 1225, win 501, length 364
+23:27:01.256188 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2183460:2184016, ack 1225, win 501, length 556
+23:27:01.256267 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2184016:2184180, ack 1225, win 501, length 164
+23:27:01.256380 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2184180:2184344, ack 1225, win 501, length 164
+23:27:01.256448 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2184344:2184536, ack 1225, win 501, length 192
+23:27:01.256525 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2184536:2184700, ack 1225, win 501, length 164
+23:27:01.256678 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2184700:2184864, ack 1225, win 501, length 164
+23:27:01.256796 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2184864:2185056, ack 1225, win 501, length 192
+23:27:01.257006 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2185056:2185220, ack 1225, win 501, length 164
+23:27:01.257102 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2185220:2185376, ack 1225, win 501, length 156
+23:27:01.257160 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2185376:2185568, ack 1225, win 501, length 192
+23:27:01.257241 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2185568:2185760, ack 1225, win 501, length 192
+23:27:01.257552 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2185760:2185988, ack 1225, win 501, length 228
+23:27:01.257707 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2185988:2186180, ack 1225, win 501, length 192
+23:27:01.257793 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2186180:2186372, ack 1225, win 501, length 192
+23:27:01.257948 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2186372:2186564, ack 1225, win 501, length 192
+23:27:01.258035 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2186564:2186756, ack 1225, win 501, length 192
+23:27:01.258179 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2186756:2186948, ack 1225, win 501, length 192
+23:27:01.258309 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2186948:2187140, ack 1225, win 501, length 192
+23:27:01.258421 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2187140:2187296, ack 1225, win 501, length 156
+23:27:01.258498 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2187296:2187488, ack 1225, win 501, length 192
+23:27:01.258566 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2187488:2187524, ack 1225, win 501, length 36
+23:27:01.258589 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2187524:2187680, ack 1225, win 501, length 156
+23:27:01.258695 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2187680:2188000, ack 1225, win 501, length 320
+23:27:01.258984 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2188000:2188156, ack 1225, win 501, length 156
+23:27:01.259090 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2188156:2188192, ack 1225, win 501, length 36
+23:27:01.259115 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2174156, win 8359, length 0
+23:27:01.259115 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2174156, win 8359, options [nop,nop,sack 1 {2174320:2174876}], length 0
+23:27:01.259115 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2174876, win 8356, length 0
+23:27:01.259115 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2174876, win 8356, options [nop,nop,sack 1 {2175224:2175260}], length 0
+23:27:01.259115 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2174876, win 8356, options [nop,nop,sack 1 {2175224:2175440}], length 0
+23:27:01.259115 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2175068, win 8355, options [nop,nop,sack 1 {2175224:2175440}], length 0
+23:27:01.259115 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2175440, win 8360, length 0
+23:27:01.259116 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2176436, win 8356, length 0
+23:27:01.259156 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2177360, win 8360, length 0
+23:27:01.259156 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2177560, win 8359, options [nop,nop,sack 1 {2177844:2178008}], length 0
+23:27:01.259157 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2178008, win 8357, length 0
+23:27:01.259157 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2178008, win 8357, options [nop,nop,sack 1 {2179172:2179336}], length 0
+23:27:01.259157 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2178008, win 8357, options [nop,nop,sack 1 {2179172:2179500}], length 0
+23:27:01.259157 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2179500, win 8360, length 0
+23:27:01.259157 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2179664, win 8359, length 0
+23:27:01.259157 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2179992, win 8358, length 0
+23:27:01.259549 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2188192:2190428, ack 1225, win 501, length 2236
+23:27:01.259697 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2190428:2190592, ack 1225, win 501, length 164
+23:27:01.259928 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2190592:2190756, ack 1225, win 501, length 164
+23:27:01.260209 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2190756:2190920, ack 1225, win 501, length 164
+23:27:01.260319 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2190920:2191084, ack 1225, win 501, length 164
+23:27:01.260544 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2191084:2191248, ack 1225, win 501, length 164
+23:27:01.260756 IP 142.188.231.51.60282 > jg-comp3134.ssh: Flags [.], ack 2180336, win 8357, length 0
+23:27:01.260784 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2191248:2191412, ack 1225, win 501, length 164
+23:27:01.260889 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 2191412:2191672, ack 1225, win 501, length 260

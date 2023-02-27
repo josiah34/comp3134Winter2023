@@ -1,0 +1,12 @@
+root@jg-comp3134:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+23:16:56.865070 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 3420047988:3420048096, ack 14508958, win 501, length 108
+23:16:56.865150 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 108:252, ack 1, win 501, length 144
+23:16:56.865201 IP jg-comp3134.ssh > 142.188.231.51.60282: Flags [P.], seq 252:288, ack 1, win 501, length 36
+23:16:56.865805 IP jg-comp3134.33912 > 67.207.67.2.domain: 7386+ [1au] PTR? 51.231.188.142.in-addr.arpa. (56)
+23:16:56.866166 IP jg-comp3134.47390 > 67.207.67.3.domain: 14430+ [1au] PTR? 51.231.188.142.in-addr.arpa. (56)
+5 packets captured
+63 packets received by filter
+27 packets dropped by kernel
+root@jg-comp3134:~#
