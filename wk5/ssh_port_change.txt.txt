@@ -1,0 +1,6 @@
+Step 6:
+sudo service sshd restart
+
+
+Step 7:
+ssh root@167.99.183.102 -p 2222
