@@ -1,0 +1,11 @@
+This url again does directory traversal using the url encoded string for ../ 
+
+
+The file structure of the server is again compromised. 
+
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => html
+)

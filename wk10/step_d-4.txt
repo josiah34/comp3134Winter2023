@@ -1,0 +1,26 @@
+Opening the url allows us to traverse upwards to the var directory. The scripts returns an array of its contents. 
+
+
+
+This again exposes our file structure which a hacker could use to build information on the server contents and develop a method of attack
+
+
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => backups
+    [3] => cache
+    [4] => crash
+    [5] => lib
+    [6] => local
+    [7] => lock
+    [8] => log
+    [9] => mail
+    [10] => opt
+    [11] => run
+    [12] => snap
+    [13] => spool
+    [14] => tmp
+    [15] => www
+)
