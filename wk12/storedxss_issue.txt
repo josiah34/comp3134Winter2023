@@ -1,0 +1,24 @@
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => .a4_reflected.php.swo
+    [3] => .reflectedxss.html.swp
+    [4] => a4_reflected.php
+    [5] => a4_stored.php
+    [6] => a4_toread.txt
+    [7] => comments_in_source_code_part1.html
+    [8] => comments_in_source_code_part2.php
+    [9] => csfr.html
+    [10] => csfr.php
+    [11] => directory_traversal_part1.php
+    [12] => directory_traversal_part2.php
+    [13] => index.html
+    [14] => login_part1.php
+    [15] => login_part2.php
+    [16] => reflectedxss.html
+    [17] => sending_info_to_app_1.php
+    [18] => sending_info_to_app_2.php
+    [19] => storedxss.txt
+    [20] => storexss.php
+)

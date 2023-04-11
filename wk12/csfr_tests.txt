@@ -1,0 +1,2 @@
+Test 1: Using the form on csfr_form.php, submitted a POST request to csfr_action.php. Received success message, indicating that the values of the session variable and the POST value were equal.
+Test 2: Using the form on csfr.html, submitted a POST request to csfr_action.php. Received failure message, indicating that the values of the session variable and the POST value were not equal 
